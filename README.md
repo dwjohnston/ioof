@@ -1,7 +1,7 @@
 ## IOOF Coding Challenge
 
 
-###Description:
+### Description:
 
 Create an application that can read in pairs of dates in the following format -
 
@@ -18,7 +18,7 @@ days.
 Input can be from a file, or from standard input, as the developer chooses.
 Provide test data to exercise the application.
 
-###Constraints:
+### Constraints:
 The application may not make use of the platform / SDK libraries for date manipulation (for example
 Date, Calendar classes).
 The application can limit calculation on an input range of dates from
