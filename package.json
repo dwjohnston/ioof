@@ -1,0 +1,19 @@
+{
+  "name": "ioof",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --harmony testDates.js",
+    "dev": "nodemon --harmony index.js",
+    "start": "node --harmony index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "fast-csv": "^2.4.0"
+  }
+}
